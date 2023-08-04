@@ -1,0 +1,7 @@
+numpy==1.25.1
+opencv-python==4.8.0.74
+mediapipe==0.10.2
+scikit-learn==1.3.0
+pyFluidSynth==1.3.2
+fluid-synth==2.3.3
+'SoundFont'==FluidR3_GM.sf2
