@@ -1,5 +1,4 @@
 # signing-music
-Sign Language Recognition for Computer Music Performance
 
 UCSD SIPP Project: Sign Language Recognition for Computer Music Performance
 
